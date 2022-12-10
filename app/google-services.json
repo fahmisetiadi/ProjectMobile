@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "820126701228",
+    "project_id": "mobilefirebasefs",
+    "storage_bucket": "mobilefirebasefs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820126701228:android:adb53ae83e4c1194bab109",
+        "android_client_info": {
+          "package_name": "com.example.studikasusfirebasemobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820126701228-06cn9bi13og6bas38f3svgk7q1uj3i3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studikasusfirebasemobile",
+            "certificate_hash": "19cae2157c24303873d76ccc8471bd3757ae8a93"
+          }
+        },
+        {
+          "client_id": "820126701228-e2m8390uc4m5jmul79o5vj6g1ingsn1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkk4J3mJcyhtYuLChlzrDZ0tISgeB13fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820126701228-e2m8390uc4m5jmul79o5vj6g1ingsn1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
